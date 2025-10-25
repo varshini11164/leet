@@ -32,14 +32,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varshini11164/leet/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/varshini11164/leet/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varshini11164/leet/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/varshini11164/leet/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varshini11164/leet/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/varshini11164/leet/tree/master/0871-keys-and-rooms) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
