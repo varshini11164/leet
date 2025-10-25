@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/varshini11164/leet/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varshini11164/leet/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -47,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/varshini11164/leet/tree/master/0803-cheapest-flights-within-k-stops) |
+## Hash Table
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## String
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
