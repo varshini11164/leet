@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/varshini11164/leet/tree/master/0136-single-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/varshini11164/leet/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/varshini11164/leet/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
