@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varshini11164/leet/tree/master/0136-single-number) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/varshini11164/leet/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/varshini11164/leet/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varshini11164/leet/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/varshini11164/leet/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
