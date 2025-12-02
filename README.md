@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/varshini11164/leet/tree/master/0136-single-number) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/varshini11164/leet/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/varshini11164/leet/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshini11164/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/varshini11164/leet/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
@@ -84,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/varshini11164/leet/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshini11164/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshini11164/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
