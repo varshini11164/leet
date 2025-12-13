@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/varshini11164/leet/tree/master/1768-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/varshini11164/leet/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/varshini11164/leet/tree/master/0031-next-permutation) |
+| [1768-merge-strings-alternately](https://github.com/varshini11164/leet/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
